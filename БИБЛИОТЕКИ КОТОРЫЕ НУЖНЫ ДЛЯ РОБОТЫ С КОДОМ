@@ -1,0 +1,12 @@
+библиотеки:
+pip install time
+pip install os
+pip install random
+pip install sys
+pip install psutil
+pip install colorama
+pip install termcolor
+pip install pyfiglet
+pip install cursers
+pip install datetime
+pip install traceback
