@@ -113,6 +113,7 @@ def helpppp():
     print(Fore.LIGHTGREEN_EX + " |    barchart - graph structure             |")
     time.sleep(0.01)
     print(Fore.LIGHTGREEN_EX + " +===========================================+" + Style.RESET_ALL)
+helpppp()
 
 while True:
     command1 = input("[JxOS] > ").strip()
